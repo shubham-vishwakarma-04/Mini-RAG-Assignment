@@ -68,3 +68,9 @@ This allows users to verify how the answer was derived.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Deployment
+
+The application is deployed on Streamlit Cloud:
+
+https://mini-rag-assignment-tjx8hrdflgwzhhwcecxgfq.streamlit.app/
